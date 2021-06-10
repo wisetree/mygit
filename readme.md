@@ -1,3 +1,3 @@
 # Learning Git in VSCode
 
-- second committ
+- second commit
